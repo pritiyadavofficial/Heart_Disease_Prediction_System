@@ -1,4 +1,4 @@
-## Heart Disease Classifier
+# Analytics for Cardiovascular Risk Prediction
 
 ## Project Overview
 
